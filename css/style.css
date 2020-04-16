@@ -753,7 +753,7 @@ h6 {
       border-image-source: linear-gradient(180deg, #c2a674 0%, #8d642d 100%);
       border-image-slice: 1; }
       .screen-sider__botton a:hover {
-        border: 3px solid;
+        border: 3px solid #8d642d;
         border-image-source: linear-gradient(180deg, rgba(194, 166, 116, 0.776348) 0%, #8d642d 100%);
         border-image-slice: 1; }
   @media (max-width: 767.98px) {
