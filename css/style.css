@@ -1115,8 +1115,8 @@ h6 {
   margin: 20px 0px 60px 0px;
   background-color: #fff; }
   .lote-top__content-button a {
-    color: #000000;
-    padding: 10px 25px;
+    color: #1c242a;
+    padding: 15px 45px;
     border: 3px solid;
     border-image-source: linear-gradient(180deg, #c2a674 0%, #8d642d 100%);
     border-image-slice: 1; }
